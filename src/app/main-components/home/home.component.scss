@@ -2,3 +2,14 @@
     background: url('https://react-marvel-poc.fidisys.com/static/media/carousel-img.6bbf546f.png');
     height: 350px;
 }
+.carousel-inner {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(13, 37, 63, 0.8);
+}
+.chartjs-render-monitor {
+    height: 225px !important;
+    width: 455px !important;
+    margin: auto;
+    padding-top: 30px;
+}
